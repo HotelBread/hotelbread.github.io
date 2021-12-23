@@ -8,8 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    여러가지 경험을 쌓고 AI전문가가 되기위해 노력하고 있습니다.
-    하루하루 성장하며 부푼기대를 안고 살고있습니다.
+    여러가지 경험을 쌓고 AI전문가가 되기위해 노력하고 있습니다.<br>
+    하루하루 성장하며 부푼기대를 안고 살고있습니다.<br>
     Please check my [CV](/assets/CV.pdf) to find out for more about me !
     
   # This photo will be used in the about section
