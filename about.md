@@ -22,23 +22,30 @@ hide_description: true
 ---
 > 1989.04.13 대한민국,서울특별시,마포구 출생 (現부천시 거주)
 > 연락처: seotea89@gmail.com
-> Github : [https://github.com/hotelbread](https://github.com/hotelbread) 
+> Github : [https://github.com/hotelbread](https://github.com/hotelbread)
 
 ## Education
 ---
 > Mar.2009 ~ Feb.2013 홍익대학교
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
+>> 기계시스템디자인공학부 (MECHANICAL SYSTEM DESIGN ENGINEERING)
+>
+> Aug.2021 ~ Nov.2021 멋쟁이사자차럼
+>
+>> AI인공지능 통합과정 (AI School)
+
 ## Research Interest
- 
+
 ---
-* Computer Vision
-+ image Object Detection
-+ Vot
-+ Semantic/Instance Segmentation + Super Resolution
-* Machine Learning / Deep Learning + GAN
-    + Few-Shot Learning
-    + Meta Learning## Project
+* Machine Learing & Deep learning
+  + Computer Vision
+  + image Object Detection
+  + ADAS
+  + Recommender System
+
+* Data Analytics
+  + decision modeling
+  + Metadata Management
 ---
 * **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
 * **Anti Drone AI Robot using object detection**
@@ -49,10 +56,11 @@ hide_description: true
 - [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a>
 ## Work Experiences
 ---
--2020. 07 – 2020. 11
+-2018. 08 – 2019. 09
 Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020)
+
 ## Skills and Certification
 ---
--Language : Python, C/C++
+-Language : Python
 -FrameWork: Pytorch, Tensorflow(Keras)
--Certification : CCNA, Internet of Things Knowledge Certification
+-Certification : 컴퓨터활용능력 2급
