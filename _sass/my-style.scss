@@ -181,3 +181,7 @@
 .submenu.menu-wrapper.hide{
   display: none;
 }
+
+a.external::after, a::after {
+  display: none !important;
+}
