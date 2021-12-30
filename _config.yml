@@ -20,7 +20,7 @@ url:                   https://hotelbread.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 서태원 성장발자취
+title:                 얽매이지 않는 AI 탐구자의 블로그
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   k-digital training을 통해 AI에 대해 공부하였습니다. 아직은 부족한점이 많지만 계속하여 성장해 나갈 것입니다.
 
 # A shorter description for the sidebar.
-tagline:               성장중인 AI 탐구자의 blog
+tagline:               성장 중인 AI 탐구자로서 전문가가 되기위해 노력하고 있습니다.
 
 # A list of keywords for your blog
 keywords:              [AI, git, gitblog, data science, machine learning, deep learning]
