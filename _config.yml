@@ -20,7 +20,7 @@ url:                   https://hotelbread.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 얽매이지 않는 AI 탐구자의 블로그
+title:                 행복을 찾는 AI 탐구자의 블로그
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
