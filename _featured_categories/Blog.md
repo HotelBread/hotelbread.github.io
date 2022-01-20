@@ -15,5 +15,5 @@ description: >
 * [취미생활]{:.heading.flip-title} --- Sports위주
 * [일상생활]{:.heading.flip-title} --- 끄적임
 
-[Test1]: /test1/
-[Test2]: /test2/
+[취미생활]: /hobby/
+[일상생활]: /day/

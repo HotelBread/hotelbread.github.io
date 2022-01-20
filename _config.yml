@@ -53,11 +53,11 @@ menu:
   - title:             Posts
     url:               /posts/
   - title:             코테공부
-    url:               /코테공부/
+    url:               /codingtest/
   - title:             AI
     url:               /ai/
   - title:            Blog
-    url:              /blog/
+    url:              /subcat/
     submenu:
       - title:        취미생활
         url:          /취미생활/
