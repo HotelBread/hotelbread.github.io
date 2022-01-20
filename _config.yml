@@ -52,17 +52,17 @@ menu:
     url:               /about/
   - title:             Posts
     url:               /posts/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
-  - title:            Subcat
+  - title:             코테공부
+    url:               /codingtest/
+  - title:             AI
+    url:               /ai/
+  - title:            Blog
     url:              /subcat/
     submenu:
-      - title:        Test1
-        url:          /test1/
-      - title:        Test2
-        url:          /test2/
+      - title:        취미생활
+        url:          /hobby/
+      - title:        일상생활
+        url:          /day/
 
 
 # Add links to the footer.
