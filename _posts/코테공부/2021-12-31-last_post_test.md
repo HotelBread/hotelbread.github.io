@@ -7,7 +7,7 @@ description: >
 sitemap: false
 hide_last_modified: false
 categories:
-  - example1
+  - codingtest
 ---
 
 # 블로그 마지막 게시물

@@ -8,7 +8,7 @@ description: >
 sitemap: false
 hide_last_modified: true
 categories:
-  - example1
+  - codingtest
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subcat-Test2-post2
+title: Subcat-Test2-post1
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -12,10 +12,10 @@ description: >
 invert_sidebar: true
 categories:
   - subcat
-  - test2
+  - day
 ---
 
-# Subcat-Test2-post2
+# Subcat-Test2-post1
 
 What's New in Hydejack 9.1?
 

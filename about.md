@@ -22,7 +22,7 @@ hide_description: true
 ---
 > 1989.04.13 대한민국,서울특별시,마포구 출생 (現부천시 거주) <br>
 > 연락처: seotea89@gmail.com <br>
-> Github : [https://github.com/hotelbread](https://github.com/hotelbread)
+> Github : [https://github.com/hotelbread](https://github.com/hotelbread)<br>
 > Portfolio : [https://taeding.github.io](https://taeding.github.io)
 
 ## Education
@@ -47,13 +47,13 @@ hide_description: true
 
 ## Awards
 ---
-> ***멋쟁이사자처럼 K-digital training AI인공지능 통합과정 11회차 (AI School) Final Project***
+> ***멋쟁이사자처럼 K-digital training AI인공지능 통합과정 11회차 (AI School)***
 >> 우수팀 선정
 
 ## Work Experiences
 ---
 * '2018. 08 – 2019. 09 , ORDEG(Umicore)
- -  영업1팀 소속으로서 Supply chain관 및 매출관리, Sales Report작성, 파이롯트용 Sample의 수량 및 납기일 전반을 총괄 관리
+  + 영업1팀 소속으로서 Supply chain관 및 매출관리, Sales Report작성, 파이롯트용 Sample의 수량 및 납기일 전반을 총괄 관리
  
 
 ## Skills and Certification

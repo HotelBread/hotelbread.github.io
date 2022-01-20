@@ -23,7 +23,7 @@ Github pages 블로그를 운영하는 중입니다.💻
 
 > 📝 Machine Learning, Deep Learning
 
-저에게 조금 관심이 생기셨다면 [CV](/assets/CV.pdf)를 확인해주시면 감사하겠습니다! 😃
+저에게 조금 관심이 생기셨다면 [CV](/assets/cv_new.pdf)를 확인해주시면 감사하겠습니다! 😃
 
 <div class="me">
     <div><img src= "/assets/me/1.JPG"></div>
