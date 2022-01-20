@@ -53,16 +53,16 @@ menu:
   - title:             Posts
     url:               /posts/
   - title:             코테공부
-    url:               /codingtest/
+    url:               /코테공부/
   - title:             AI
     url:               /ai/
   - title:            Blog
-    url:              /subcat/
+    url:              /blog/
     submenu:
       - title:        취미생활
-        url:          /hobby/
+        url:          /취미생활/
       - title:        일상생활
-        url:          /day/
+        url:          /일상생활/
 
 
 # Add links to the footer.
