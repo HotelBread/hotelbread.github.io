@@ -20,9 +20,10 @@ hide_description: true
 
 ## Personal Data
 ---
-> 1989.04.13 대한민국,서울특별시,마포구 출생 (現부천시 거주)
-> 연락처: seotea89@gmail.com
+> 1989.04.13 대한민국,서울특별시,마포구 출생 (現부천시 거주) <br>
+> 연락처: seotea89@gmail.com <br>
 > Github : [https://github.com/hotelbread](https://github.com/hotelbread)
+> Portfolio : [https://taeding.github.io](https://taeding.github.io)
 
 ## Education
 ---
@@ -43,24 +44,20 @@ hide_description: true
   + ADAS
   + Recommender System
 
-* Data Analytics
-  + decision modeling
-  + Metadata Management
----
-* **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App**
+
 ## Awards
 ---
-[***2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020***](https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s)
-- [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a>
+> ***멋쟁이사자처럼 K-digital training AI인공지능 통합과정 11회차 (AI School) Final Project***
+>> 우수팀 선정
+
 ## Work Experiences
 ---
--2018. 08 – 2019. 09
-Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020)
+* '2018. 08 – 2019. 09 , ORDEG(Umicore)
+ -  영업1팀 소속으로서 Supply chain관 및 매출관리, Sales Report작성, 파이롯트용 Sample의 수량 및 납기일 전반을 총괄 관리
+ 
 
 ## Skills and Certification
 ---
--Language : Python
--FrameWork: Pytorch, Tensorflow(Keras)
--Certification : 컴퓨터활용능력 2급
+  - Language : Python
+  - FrameWork: Tensorflow(Keras)
+  - Certification : 컴퓨터활용능력 2급
