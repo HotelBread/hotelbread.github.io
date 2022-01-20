@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: Blog
-slug: subcat
+slug: blog
 menu: true
 submenu: true
 description: >
