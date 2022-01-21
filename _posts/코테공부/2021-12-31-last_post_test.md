@@ -7,7 +7,7 @@ image: /assets/img/blog/example-content-ii.jpg
 sitemap: false
 hide_last_modified: false
 categories:
-  - codingtest
+  - 코테공부
 ---
 
 # 블로그 마지막 게시물
